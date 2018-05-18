@@ -17,5 +17,6 @@ function onLoadSoundComplete()
 {
 
 	ah.play('sound1');
+	ah.setVolume('sound2', .5);
 	
 }
