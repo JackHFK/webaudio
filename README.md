@@ -1,5 +1,5 @@
 # webaudio
-easy control
+easy to use
 
 var ah = new AudioHelper();
 
